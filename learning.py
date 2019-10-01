@@ -22,3 +22,4 @@ print("Now i will count the eggs", 7)
 print(3+2+1-5+4%2-1/4+6)
 # an inequality solved by the dark magic of computers
 print(3+2<5-7)
+# the second part of the project
