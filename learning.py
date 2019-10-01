@@ -4,7 +4,7 @@
 print("howdy, y'all")
 # i describe how i enjoy coding
 print("I like typing this.")
-
+# my level of enjoyment being described
 print("This is fun.")
 
 # math skills demo
