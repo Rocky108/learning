@@ -6,7 +6,7 @@ print("howdy, y'all")
 print("I like typing this.")
 # my level of enjoyment being described
 print("This is fun.")
-
+# example of what is going on in the next part of code
 # math skills demo
 
 print("I will not count my chickens", 2)
