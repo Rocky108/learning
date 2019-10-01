@@ -18,7 +18,7 @@ print("Hens: ", 25+30/6)
 print("Roosters: ", 100 - 25 * 3 % 4)
 # the amount of hard shelled mini liquid capsules
 print("Now i will count the eggs", 7)
-
+# an equation with a remainder represented by the %
 print(3+2+1-5+4%2-1/4+6)
 
 print(3+2<5-7)
