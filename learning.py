@@ -8,7 +8,7 @@ print("I like typing this.")
 print("This is fun.")
 # example of what is going on in the next part of code
 # math skills demo
-
+# my refusal to count two legged flightless feather food
 print("I will not count my chickens", 2)
 
 print("Hens: ", 25+30/6)
