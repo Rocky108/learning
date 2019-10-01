@@ -2,7 +2,7 @@
 # print("hello world")
 # introduction to the audience reading
 print("howdy, y'all")
-
+# i describe how i enjoy coding
 print("I like typing this.")
 
 print("This is fun.")
