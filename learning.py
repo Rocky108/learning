@@ -1,3 +1,4 @@
+# a decription of what the number symbol is for
 # this is an octothorpe - it makes a comment (is ignored by the computer)
 # print("hello world")
 # introduction to the audience reading
