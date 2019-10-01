@@ -12,7 +12,7 @@ print("This is fun.")
 # math skills demo
 # my refusal to count two legged flightless feather food
 print("I will not count my chickens", 2)
-
+# me counting the female species of the two legged flightless feather food
 print("Hens: ", 25+30/6)
 
 print("Roosters: ", 100 - 25 * 3 % 4)
