@@ -1,5 +1,6 @@
 # a decription of what the number symbol is for
 # this is an octothorpe - it makes a comment (is ignored by the computer)
+# first example of what an octothorpe is
 # print("hello world")
 # introduction to the audience reading
 print("howdy, y'all")
