@@ -26,16 +26,28 @@ print(3+2<5-7)
 print(52165496841-6544132.5468+95465/56)
 
 #variables and some of their powers
-cars=100
-space_in_a_car=4.0
-drivers=30
-passengers=90
+cars=80
+spaceInACar=4.0
+drivers=45
+passengers=115
 cars_not_driven=cars-drivers
 cars_driven=drivers
-carpool_capacity=space_in_a_car*cars_driven
+carpool_capacity= spaceInACar * cars_driven
 average_passenger_per_car=passengers/cars_driven
 print("there are", cars, "cars available")
 print("there are only", drivers, "drivers available today")
 print("there will be", cars_not_driven, "empty cars today")
 print("we can transport", carpool_capacity, "people today")
 print("we need to put approximately", average_passenger_per_car, "in each car")
+
+bladesmiths=5
+hammers=3
+bladesToMake=50
+daysTillProjectEnd=60
+bladesMadePerDay=bladesmiths+hammers
+daysTillFinished=bladesToMake-bladesMadePerDay
+print("there are", hammers, "hammers available")
+print("there are only ever", bladesmiths, "smiths in the forge at a time")
+print("there are only", daysTillProjectEnd, "days to finish the blades")
+print("if they make", bladesMadePerDay,"per day")
+print("then it will take them", daysTillFinished, "days to finish")
