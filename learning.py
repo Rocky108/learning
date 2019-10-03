@@ -24,3 +24,18 @@ print(3+2+1-5+4%2-1/4+6)
 print(3+2<5-7)
 # the second part of the project
 print(52165496841-6544132.5468+95465/56)
+
+#variables and some of their powers
+cars=100
+space_in_a_car=4.0
+drivers=30
+passengers=90
+cars_not_driven=cars-drivers
+cars_driven=drivers
+carpool_capacity=space_in_a_car*cars_driven
+average_passenger_per_car=passengers/cars_driven
+print("there are", cars, "cars available")
+print("there are only", drivers, "drivers available today")
+print("there will be", cars_not_driven, "empty cars today")
+print("we can transport", carpool_capacity, "people today")
+print("we need to put approximately", average_passenger_per_car, "in each car")
